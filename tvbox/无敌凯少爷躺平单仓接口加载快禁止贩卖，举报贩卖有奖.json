@@ -214,7 +214,7 @@
       "key": "JP",
       "name": "金牌|影视",
       "type": 3,
-      "jar": "http://my.djian.top/k/1/raw/branch/main/tvkj.jar",
+      "jar": "./tvkj.jar",
       "api": "csp_Jpys"
     },
     {
