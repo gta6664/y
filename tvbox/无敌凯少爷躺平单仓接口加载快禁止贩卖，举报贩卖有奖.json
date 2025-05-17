@@ -82,6 +82,17 @@
         "ratio": 1.5
       }
     },
+/*    {
+      "key": "木偶",
+      "name": "木偶┃4K",
+      "type": 3,
+      "api": "csp_MuouGuard",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Qpd7N0_9.png;md5;1ff7c90d6f2e6ba1eda34e7aca753c5f",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },*/
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
@@ -191,6 +202,297 @@
         "dataIv": "b025dcd9c289cbb3",
         "deviceId": "",
         "version": ""
+      }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/wogg.json"
+    },
+    {
+      "key": "木偶",
+      "name": "木偶｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/mogg.json"
+    },
+    {
+      "key": "蜡笔",
+      "name": "蜡笔｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/lb.json"
+    },
+    {
+      "key": "至臻",
+      "name": "至臻｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/zz.json"
+    },
+    {
+      "key": "多多",
+      "name": "多多｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/yyds.json"
+    },
+    {
+      "key": "欧哥",
+      "name": "欧哥｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/og.json"
+    },
+    {
+      "key": "二小",
+      "name": "二小｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/ex.json"
+    },
+    {
+      "key": "百家",
+      "name": "百家｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/bj.json?"
+    },
+    {
+      "key": "大玩",
+      "name": "大玩｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/dawo.json"
+    },
+    {
+      "key": "虎斑",
+      "name": "虎斑｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/hb.json"
+    },
+    {
+      "key": "闪电",
+      "name": "闪电｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/sd.json"
+    },
+    {
+      "key": "下饭",
+      "name": "下饭｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/xf.json"
+    },
+    {
+      "key": "团长",
+      "name": "团长｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebTz",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "雷鲸",
+      "name": "雷鲸｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/lj.json"
+    },
+    {
+      "key": "海绵",
+      "name": "海绵｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/hm.json"
+    },
+    {
+      "key": "Pan1",
+      "name": "123｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloud123",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/pan1.json"
+    },
+    {
+      "key": "夸父",
+      "name": "夸父｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/kf.json"
+    },
+    {
+      "key": "趣盘",
+      "name": "趣盘｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebQu",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "url": "https://www.qupanshe.com"
+      }
+    },
+    {
+      "key": "聚搜",
+      "name": "聚搜｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebSearch",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/aliyunpansearch.json"
+    },
+    {
+      "key": "盘库",
+      "name": "盘库｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebKuBa",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://panku8.com,https://yipanso.com"
+      }
+    },
+    {
+      "key": "双星",
+      "name": "双星｜4K弹幕",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/cloud.min.js",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/js/SX.js",
+      "style": {
+        "type": "list"
+      }
+    },
+
+    {
+      "key": "二三",
+      "name": "二三｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747063716080/pizazz.jpg;md5;306c98ac3375da1a7b4242a44a80a4ae",
+      "ext": {
+        "url": "http://cs4.123ysw.com",
+        "dataKey": "d3238930e3ae0724",
+        "dataIv": "d3238930e3ae0724",
+        "jxurl": "https://123ysw.com"
       }
     },
     {
@@ -877,6 +1179,35 @@
         "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
       }
     },
+{"key": "软件","name": "🅰️软件┃教程","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/软件教程.json"}, 
+    
+{"key": "学堂","name": "🅰️学堂┃教育","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/学堂教育.json"}, 
+{"key": "少儿","name": "🅰️少儿┃合集","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/少儿合集.json"},
+{"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/小学课堂.json"},
+{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/初中课堂.json"},
+{"key": "高中课堂","name": "🅰️高中┃课堂","type": 3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/高中课堂.json"},
+{"key":"儿童口才","name":" 🧒口才┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童口才.json"},
+{"key":"儿童拼音","name":" 🧒拼音┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童拼音.json"},
+{"key":"儿童识字","name":" 🧒识字┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童识字.json"},
+{"key":"儿童思维","name":" 🧒思维┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童思维.json"},
+{"key":"儿童英语","name":" 🧒英语┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童英语.json"},
+{"key":"儿童硬笔","name":" 🧒硬笔┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童硬笔.json"},
+{"key":"儿童编程","name":" 🧒编程┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童编程.json"},
+{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,
+ "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php","api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/儿童武术.json"},
     {
       "key": "lltv_360DH",
       "name": "360动画",
